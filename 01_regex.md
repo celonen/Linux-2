@@ -8,6 +8,7 @@ cd /
 ```
  
 `tail ->` outputs the end of a file
+
 Use `grep -E` for regex search
 
 ```bash
